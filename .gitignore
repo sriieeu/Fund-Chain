@@ -1,0 +1,4 @@
+node_modules/
+web3/node_modules/
+client/node_modules/
+web3/.env
