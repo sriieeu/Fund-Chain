@@ -37,5 +37,7 @@ This project allows creators to launch fundraising campaigns, and backers to sec
 Clone the Repository
 
 git clone https://github.com/yourusername/Fund-chain.git
+
+
 cd contract (for solidity code)
 cd webapp (for web-app code)
