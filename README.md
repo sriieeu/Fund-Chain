@@ -31,7 +31,7 @@ This project allows creators to launch fundraising campaigns, and backers to sec
 
 - [Node.js](https://nodejs.org/)
 - [MetaMask](https://metamask.io/) with Sepolia ETH
-- [Hardhat](https://hardhat.org/) (if building/deploying smart contracts)
+- [Hardhat](https://hardhat.org/) ( to deploy smart contracts)
 
 
 Clone the Repository
