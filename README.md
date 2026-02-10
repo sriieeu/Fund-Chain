@@ -14,7 +14,7 @@ This project allows creators to launch fundraising campaigns, and backers to sec
 - **Blockchain:** Ethereum Sepolia Testnet
 - **Wallet:** MetaMask
 - **Deployment:** Hardhat or Thirdweb
-- **Node Package Manager:** npm or yarn
+- **Node Package Manager:** npm 
 
  ✅ Features
 
